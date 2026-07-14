@@ -1,0 +1,6 @@
+interface:
+  display_name: "Testing AI"
+  short_description: "Turn AI quality questions into release evidence"
+  default_prompt: "Use $testing-ai-book to evaluate this AI system and produce an evidence-backed release decision."
+policy:
+  allow_implicit_invocation: true
