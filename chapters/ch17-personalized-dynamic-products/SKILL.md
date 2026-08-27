@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch17-personalized-dynamic-products
-description: Use when an AI coding agent needs Chapter 17 of Testing AI: Personalized and Dynamic AI Products. Trigger topics include personalization, dynamic UI, memory, identity, N=1, synthetic users, accessibility, privacy, adaptive interfaces. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 17 of Testing AI: Personalized and Dynamic AI Products. Trigger topics include personalization, dynamic UI, memory, identity, N=1, synthetic users, accessibility, privacy, adaptive interfaces. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 17: Personalized and Dynamic AI Products

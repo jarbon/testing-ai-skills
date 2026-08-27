@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch07-release-readiness
-description: Use when an AI coding agent needs Chapter 7 of Testing AI: Release Readiness for AI Systems. Trigger topics include monitoring after release, latency, cost, regression testing changing outputs, tool-using agents, trajectories, escalation, human review. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 7 of Testing AI: Release Readiness for AI Systems. Trigger topics include monitoring after release, latency, cost, regression testing changing outputs, tool-using agents, trajectories, escalation, human review. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 7: Release Readiness for AI Systems

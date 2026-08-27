@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch20-practical-playbook
-description: Use when an AI coding agent needs Chapter 20 of Testing AI: The Practical Playbook. Trigger topics include practical playbook, executive summary, chatbot testing, failure taxonomy, fail-safe design, variance-aware infrastructure, performance engineering, starter quality system. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 20 of Testing AI: The Practical Playbook. Trigger topics include practical playbook, executive summary, chatbot testing, failure taxonomy, fail-safe design, variance-aware infrastructure, performance engineering, starter quality system. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 20: The Practical Playbook

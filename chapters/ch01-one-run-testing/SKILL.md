@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch01-one-run-testing
-description: Use when an AI coding agent needs Chapter 1 of Testing AI: The End of One-Run Testing. Trigger topics include one-run demos, nondeterminism, exact assertions, scoring criteria, 0-10 rubrics, variance, deterministic baselines. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 1 of Testing AI: The End of One-Run Testing. Trigger topics include one-run demos, nondeterminism, exact assertions, scoring criteria, 0-10 rubrics, variance, deterministic baselines. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 1: The End of One-Run Testing

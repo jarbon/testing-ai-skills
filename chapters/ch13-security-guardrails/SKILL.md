@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch13-security-guardrails
-description: Use when an AI coding agent needs Chapter 13 of Testing AI: AI Security and Guardrails. Trigger topics include prompt injection, indirect prompt injection, OWASP LLM Top 10, MCP security, tool permissions, provenance, guardrails, threat model, jailbreaks. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 13 of Testing AI: AI Security and Guardrails. Trigger topics include prompt injection, indirect prompt injection, OWASP LLM Top 10, MCP security, tool permissions, provenance, guardrails, threat model, jailbreaks. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 13: AI Security and Guardrails

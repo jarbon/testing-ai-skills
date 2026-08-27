@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch16-white-box-introspection
-description: Use when an AI coding agent needs Chapter 16 of Testing AI: Introspection: White-Box Testing Networks. Trigger topics include white-box, token IDs, attention diagnostics, activation probes, concept probes, sparse autoencoders, grokking, interpretability, network drift. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 16 of Testing AI: Introspection: White-Box Testing Networks. Trigger topics include white-box, token IDs, attention diagnostics, activation probes, concept probes, sparse autoencoders, grokking, interpretability, network drift. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 16: Introspection: White-Box Testing Networks

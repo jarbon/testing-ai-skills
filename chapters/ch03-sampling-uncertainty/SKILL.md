@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch03-sampling-uncertainty
-description: Use when an AI coding agent needs Chapter 3 of Testing AI: Sampling and Uncertainty. Trigger topics include sample size, confidence intervals, uncertainty, repeated runs, model-reported confidence, statistical confidence. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 3 of Testing AI: Sampling and Uncertainty. Trigger topics include sample size, confidence intervals, uncertainty, repeated runs, model-reported confidence, statistical confidence. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 3: Sampling and Uncertainty

@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch09-generated-code
-description: Use when an AI coding agent needs Chapter 9 of Testing AI: Generated Code Changes the Job. Trigger topics include AI-generated code, coding agents, unit tests, integration, security, privacy, maintainability, architecture debt, generated tests, review loops, halting problem. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 9 of Testing AI: Generated Code Changes the Job. Trigger topics include AI-generated code, coding agents, unit tests, integration, security, privacy, maintainability, architecture debt, generated tests, review loops, halting problem. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 9: Generated Code Changes the Job

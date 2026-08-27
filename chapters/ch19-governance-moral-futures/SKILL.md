@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch19-governance-moral-futures
-description: Use when an AI coding agent needs Chapter 19 of Testing AI: Governance, Regulation, and Moral Futures. Trigger topics include ethics, EU AI Act, OWASP, regulation, legal accountability, AI welfare, consciousness, Chalmers, governance, human harm in labeling. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 19 of Testing AI: Governance, Regulation, and Moral Futures. Trigger topics include ethics, EU AI Act, OWASP, regulation, legal accountability, AI welfare, consciousness, Chalmers, governance, human harm in labeling. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 19: Governance, Regulation, and Moral Futures

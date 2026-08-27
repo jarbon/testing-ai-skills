@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch15-how-models-work
-description: Use when an AI coding agent needs Chapter 15 of Testing AI: How Models Work. Trigger topics include LLM training, tokenization, transformer blocks, logits, sampling, RLHF, RLAIF, preference tuning, image generation, VLM, fine-tuning regression. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 15 of Testing AI: How Models Work. Trigger topics include LLM training, tokenization, transformer blocks, logits, sampling, RLHF, RLAIF, preference tuning, image generation, VLM, fine-tuning regression. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 15: How Models Work

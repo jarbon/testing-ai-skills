@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch02-release-evidence
-description: Use when an AI coding agent needs Chapter 2 of Testing AI: From Tests to Release Evidence. Trigger topics include metamorphic testing, golden sets, live sampling, risk-based sampling, stratified reporting, rare failures, pairwise comparison, logging, release gates. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 2 of Testing AI: From Tests to Release Evidence. Trigger topics include metamorphic testing, golden sets, live sampling, risk-based sampling, stratified reporting, rare failures, pairwise comparison, logging, release gates. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 2: From Tests to Release Evidence
