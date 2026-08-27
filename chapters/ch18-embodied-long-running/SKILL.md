@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch18-embodied-long-running
-description: Use when an AI coding agent needs Chapter 18 of Testing AI: Embodied and Long-Running AI Systems. Trigger topics include robotics, humanoid robots, simulation, virtual worlds, recovery, physical safety, swarms, long-running agents, human-in-the-loop remote operators. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 18 of Testing AI: Embodied and Long-Running AI Systems. Trigger topics include robotics, humanoid robots, simulation, virtual worlds, recovery, physical safety, swarms, long-running agents, human-in-the-loop remote operators. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 18: Embodied and Long-Running AI Systems

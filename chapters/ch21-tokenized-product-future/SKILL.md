@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch21-tokenized-product-future
-description: Use when an AI coding agent needs Chapter 21 of Testing AI: Predictions for the Tokenized Product Future. Trigger topics include AI testing AI, tokenized products, continuous product variants, confidence engineering future, AI agents, validation compute, dynamic production models. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 21 of Testing AI: Predictions for the Tokenized Product Future. Trigger topics include AI testing AI, tokenized products, continuous product variants, confidence engineering future, AI agents, validation compute, dynamic production models. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 21: Predictions for the Tokenized Product Future

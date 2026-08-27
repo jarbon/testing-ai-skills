@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch10-false-confidence-antipatterns
-description: Use when an AI coding agent needs Chapter 10 of Testing AI: Anti-Patterns That Create False Confidence. Trigger topics include boolean pass fail trap, percent passed, over-specific tests, golden answer, whack-a-mole tuning, one-run demo, static test plan, aggregate score trap, refusal versus safety. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 10 of Testing AI: Anti-Patterns That Create False Confidence. Trigger topics include boolean pass fail trap, percent passed, over-specific tests, golden answer, whack-a-mole tuning, one-run demo, static test plan, aggregate score trap, refusal versus safety. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 10: Anti-Patterns That Create False Confidence

@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch08-observability-relevance-economics
-description: Use when an AI coding agent needs Chapter 8 of Testing AI: Operating AI: Observability, Relevance, and Economics. Trigger topics include observability, tracing, RAG, synthetic data, production traces, prompt versioning, EvalOps, canary, shadow, rollback, data contracts, token budgets, p95, p99. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 8 of Testing AI: Operating AI: Observability, Relevance, and Economics. Trigger topics include observability, tracing, RAG, synthetic data, production traces, prompt versioning, EvalOps, canary, shadow, rollback, data contracts, token budgets, p95, p99. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 8: Operating AI: Observability, Relevance, and Economics

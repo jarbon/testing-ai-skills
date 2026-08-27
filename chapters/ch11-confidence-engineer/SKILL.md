@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch11-confidence-engineer
-description: Use when an AI coding agent needs Chapter 11 of Testing AI: The Confidence Engineer. Trigger topics include confidence engineering, tester developer product manager convergence, quality roles, communication, release evidence, confidence reports. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 11 of Testing AI: The Confidence Engineer. Trigger topics include confidence engineering, tester developer product manager convergence, quality roles, communication, release evidence, confidence reports. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 11: The Confidence Engineer

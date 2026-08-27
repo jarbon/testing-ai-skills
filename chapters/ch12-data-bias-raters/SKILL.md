@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch12-data-bias-raters
-description: Use when an AI coding agent needs Chapter 12 of Testing AI: Data, Bias, Raters, and Incentives. Trigger topics include dataset bias, labeling bias, cultural language bias, socioeconomic accessibility bias, counterfactuals, raters, incentives, synthetic data poisoning. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 12 of Testing AI: Data, Bias, Raters, and Incentives. Trigger topics include dataset bias, labeling bias, cultural language bias, socioeconomic accessibility bias, counterfactuals, raters, incentives, synthetic data poisoning. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 12: Data, Bias, Raters, and Incentives

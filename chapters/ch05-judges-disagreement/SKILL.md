@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch05-judges-disagreement
-description: Use when an AI coding agent needs Chapter 5 of Testing AI: Judges, Humans, and Disagreement. Trigger topics include human raters, data labeling, rubrics, disagreement, topical entropy, inter-rater agreement, Cohen kappa, Krippendorff alpha, LLM-as-a-judge calibration. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 5 of Testing AI: Judges, Humans, and Disagreement. Trigger topics include human raters, data labeling, rubrics, disagreement, topical entropy, inter-rater agreement, Cohen kappa, Krippendorff alpha, LLM-as-a-judge calibration. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 5: Judges, Humans, and Disagreement

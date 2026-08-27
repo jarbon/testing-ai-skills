@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch06-evals-that-matter
-description: Use when an AI coding agent needs Chapter 6 of Testing AI: Building Evals That Matter. Trigger topics include evals, benchmarks, MMLU, GPQA, HumanEval, SWE-bench, ARC Prize, NDCG, search relevance, quality metrics, asymptotic improvement, benchmark blind spots. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 6 of Testing AI: Building Evals That Matter. Trigger topics include evals, benchmarks, MMLU, GPQA, HumanEval, SWE-bench, ARC Prize, NDCG, search relevance, quality metrics, asymptotic improvement, benchmark blind spots. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 6: Building Evals That Matter

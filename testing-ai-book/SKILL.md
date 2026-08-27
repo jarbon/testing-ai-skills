@@ -1,6 +1,6 @@
 ---
 name: testing-ai-book
-description: Use when an AI coding agent should apply Jason Arbon's Testing AI book as a confidence-engineering operating manual for AI systems: eval design, sampling, scoring, traces, release gates, generated-code validation, security, bias, observability, governance, and production evidence.
+description: "Use when an AI coding agent should apply Jason Arbon's Testing AI book as a confidence-engineering operating manual for AI systems: eval design, sampling, scoring, traces, release gates, generated-code validation, security, bias, observability, governance, and production evidence."
 ---
 
 # Testing AI Book Skill

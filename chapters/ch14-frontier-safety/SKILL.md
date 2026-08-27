@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch14-frontier-safety
-description: Use when an AI coding agent needs Chapter 14 of Testing AI: Frontier Safety and Containment. Trigger topics include hazardous capabilities, CBRN, containment, deception, scheming, evaluation awareness, manipulation, frontier safety, dangerous capability evals. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 14 of Testing AI: Frontier Safety and Containment. Trigger topics include hazardous capabilities, CBRN, containment, deception, scheming, evaluation awareness, manipulation, frontier safety, dangerous capability evals. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 14: Frontier Safety and Containment

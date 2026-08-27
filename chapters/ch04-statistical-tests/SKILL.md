@@ -1,6 +1,6 @@
 ---
 name: testing-ai-ch04-statistical-tests
-description: Use when an AI coding agent needs Chapter 4 of Testing AI: Statistical Tests for AI Quality. Trigger topics include t-test, chi-squared, p-value, effect size, practical significance, power analysis, multiple comparisons, F-score, precision, recall. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance.
+description: "Use when an AI coding agent needs Chapter 4 of Testing AI: Statistical Tests for AI Quality. Trigger topics include t-test, chi-squared, p-value, effect size, practical significance, power analysis, multiple comparisons, F-score, precision, recall. Apply the chapter to produce practical evals, tests, traces, risk analysis, release evidence, or review guidance."
 ---
 
 # Chapter 4: Statistical Tests for AI Quality
